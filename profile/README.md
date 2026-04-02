@@ -8,9 +8,9 @@
 
 ### 🛠 Tech Stack
 - **Backend:** Spring Boot, Java 17, JPA, MySQL
-- **AI Server:** FastAPI, Python, Claude SDK
-- **Frontend:** Flutter (Dart)
-- **Infrastructure:** Docker, GitHub Actions
+- **AI Server:** FastAPI, Python, Google GenAI SDK
+- **Frontend:** Flutter / React [미정]
+- **Infrastructure:** Docker, GitHub Actions, AWS EC2
 
 ### 👥 Team Members
 - **정주원 (Team Leader):** Backend
