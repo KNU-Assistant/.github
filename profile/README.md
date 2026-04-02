@@ -1,4 +1,4 @@
-# 🎓 KNU Assistant (SchoolMate AI)
+# 🎓 KNU Assistant
 > **공주대학교 학생들을 위한 AI 기반 스마트 학교 생활 비서 서비스**
 
 공주대학교 소프트웨어학과 캡스톤 디자인 프로젝트입니다. 
